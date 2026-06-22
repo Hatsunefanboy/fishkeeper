@@ -1,7 +1,6 @@
-#launch
-this is a really short and simple python game
+#lancez le jeux
+ouvrez le dossier du jeux dans un terminal et faite python game.py
+necessite pygames
 
-to launch it you just have to do 
-
-python game.py in your console
-
+#controle 
+souris + click
